@@ -1,4 +1,4 @@
-# mazal-restaurant-react-bem
+# Granadilla-restaurant-react-bem
 ## Restaurant themed webpage 
 ### Built with React.JS, BEM CSS
 
