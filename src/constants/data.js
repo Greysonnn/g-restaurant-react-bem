@@ -35,7 +35,7 @@ const cocktails = [
     tags: 'Aperol | Villa Marchesi Prosecco | Soda | 30 ml',
   },
   {
-    title: "Dark&Stormy",
+    title: "Dark & Stormy",
     price: '$17',
     tags: 'Dark rum | Ginger beer | Lime',
   },
